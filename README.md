@@ -13,8 +13,8 @@
 
 This repo is my hands-on journey through classical machine learning — not a course I audited, but a set of algorithms I broke, debugged, and rebuilt until they actually made sense. No black boxes. Every model here started as math on paper before it became code.
 
-I'm an engineering student at **MIT Manipal**, part of **Project Manas** (my college's AI & robotics team), and building AI products for the Indian market on the side. This repo is where the fundamentals get forged — regression, trees, ensembles, clustering — the stuff that makes everything downstream (RAG pipelines, CNNs, agents) actually click.
-
+It contains projects from algorithm like Linear and Logistic Regression, K-Means clustering, Decision trees and Ensemble Method 
+It also includes real world application project like a linear regression project build to classify spam and ham e-mails 
 ---
 
 ## 🚀 What's Inside
